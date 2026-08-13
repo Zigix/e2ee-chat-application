@@ -1,0 +1,6 @@
+[submodule "e2ee-chat-server"]
+	path = e2ee-chat-server
+	url = https://github.com/Zigix/e2ee-chat-server
+[submodule "e2ee-chat-client"]
+	path = e2ee-chat-client
+	url = https://github.com/Zigix/e2ee-chat-client
